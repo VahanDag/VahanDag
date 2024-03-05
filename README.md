@@ -1,3 +1,3 @@
 <p>Jr.Developer</p>
-<p>a Flutter, python, solidty</p>
+<p>Flutter, python, solidty</p>
 
